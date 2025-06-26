@@ -1,7 +1,7 @@
 ---
-title: Research Note — StrokeStles
+title: Research Note — StrokeStyles
 # tags:
-#   - Research Note — StrokeStles
+#   - Research Note — StrokeStyles
 ---
 
 # StrokeStyles Workflow: From Contour to Final Strokes
